@@ -1,0 +1,21 @@
+1.	Download and install GIT
+2.	Tape on terminal git –version
+3.	Singup and create account on GitHub
+4.	Add Username and Mail to Git
+a.	Git config –global user.name “AnnName”
+b.	Git config –global user.email “AnnEmail”
+5.	Add  file/folders to Git – tracking
+6.	Commands
+a.	Terminal – go to the folder
+b.	git init
+c.	git status
+d.	git add + file name  (add . (all everythink) or add *txt – add all txt files)
+e.	git commit –m”my message” (message to repository)
+7.	Go to GitHub and create new remote repository
+a.	Go to terminal and tape  git remote add origin https://github.com/ANUBISRD/Repo1.git
+b.	Git push –u origin master
+
+touch  filename.ext
+
+Tutorial - https://www.youtube.com/watch?v=0Icla6TVNNo
+
