@@ -1,1 +1,1 @@
-console.log("Hello my first app");
+console.log("Hello my first app" + new Date());
