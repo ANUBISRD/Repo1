@@ -1,6 +1,7 @@
 /* globals require */
-const SuperHeroModule = require("./models/superHero");
-const SuperHero = SuperHeroModule.superHero;
+const SuperheroModule =
+    require("./models/superHero");
+const Superhero = SuperheroModule.superhero;
 
-var Batman = new superHero("Batman", "Bruce Wayne", "Utility belt");
-console.log(Batman);
+var batman = new Superhero("Batman", "Bruce Wayne", "Utility belt");
+console.log(batman);
