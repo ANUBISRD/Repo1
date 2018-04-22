@@ -1,3 +1,5 @@
+const MaxSuperHeroNameLenght = 30;
+
 class SuperHero {
     constructor(name, secretEdentity, ...powers) {
         this.name = name;
